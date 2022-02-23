@@ -10,7 +10,6 @@
     "easy-json-database": "^1.3.0",
     "vinted-api": "^2.5.0"
   }
-  },
   "devDependencies": {},
   "scripts": {
     "start": "node index.js"
