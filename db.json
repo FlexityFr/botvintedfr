@@ -1,0 +1,23 @@
+{
+  "subscriptions": [
+    {
+      "id": "mvg4lx",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "938208144180535320"
+    },
+    {
+      "id": "lpt5mv",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "933120907973644389"
+    },
+    {
+      "id": "shvt3b",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&order=newest_first&size_id[]=209&size_id[]=210&size_id[]=211&size_id[]=212&size_id[]=308&price_to=25&currency=EUR",
+      "channelID": "946015712277856256"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1645618866000,
+  "last_item_ts_lpt5mv": 1645618866000,
+  "is_first_sync": false,
+  "last_item_ts_shvt3b": 1645619196000
+}
