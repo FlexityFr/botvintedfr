@@ -262,4 +262,4 @@ function getReputationStars(reputationPercent) {
     return starsStr;
 }
 
-client.login("process.env.TOKEN");
+client.login(process.env.TOKEN);
