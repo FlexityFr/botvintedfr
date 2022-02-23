@@ -2,7 +2,9 @@
   "name": "vinted-discord-bot",
   "version": "2.1.0",
   "main": "index.js",
-   "scripts": {
+     }
+  "devDependencies": {},
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
