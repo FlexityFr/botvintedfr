@@ -262,4 +262,4 @@ function getReputationStars(reputationPercent) {
     return starsStr;
 }
 
-client.login("OTMxOTA2NDMzMDgyMDY5MDMy.YeLPfw.gREO8Q4hAQU-SNdnHXAeJh2iIyk");
+client.login("process.env.TOKEN");
